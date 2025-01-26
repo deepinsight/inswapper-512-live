@@ -20,6 +20,14 @@
 | INSwapper_Dax      |            |        |               |         |            |
 | INSwapper_512_live |            |        |               |         |            |
 
+**Metric Explanation:**
+
+1) **ID Similarity**: This metric evaluates the similarity between the swapped face image and the source face. It utilizes a third-party high-precision face recognition model for assessment, with scores ranging from 0 to 100. A higher score indicates greater similarity.
+
+2) **Realism**: This metric assesses the realism and clarity of the swapped face image. Scores range from 0 to 100, where a higher score signifies greater realism and clarity.
+
+3) **Attributes**: This metric evaluates the relevance of attributes in the swapped face image compared to the target face, including factors such as gaze direction, expression, etc. Scores range from 0 to 100, with higher scores indicating better attribute alignment.
+
 ## License
 
 All resources within this project, including applications and models, are not to be utilized for any commercial purposes and are intended solely for academic use or personal testing. 
