@@ -24,7 +24,7 @@
 | INSwapper_512_live_base                                                                            | RGB 512x512 | **9.5M** | **12.1G** | 87.0       | 73.7     | 80.1       |
 | INSwapper_512_live_mini                                                                            | RGB 512x512 | **4.7M** | **6.3G**  |            |          |            |
 
-*``Params``: the number of parameters in the network, with lower values indicating smaller model file size.* 
+*``Params``: Number of parameters in the network, with lower values indicating smaller model file size.* 
 
 *``GFLOPs``: Computational complexity measured in FP32(half if using FP16), with lower values indicating faster inference.* 
 
