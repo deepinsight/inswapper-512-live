@@ -8,7 +8,7 @@
 **``inswapper-512-live``** is an ultra-lightweight face swapping model that provides native 512x512 resolution. Compared to ``inswapper_128``, it requires less than 1/10 of the computational resources yet produces outputs with 16 times the pixel count(512x512 vs 128x128).
 
 <div align="left">
-  <img src="https://github.com/nttstar/insightface-resources/blob/master/images/inswapper_512_live_1.jpg?raw=true" width="1024"/>
+  <img src="https://github.com/nttstar/insightface-resources/blob/master/images/inswapper_512_live_preview1.gif?raw=true" width="1024"/>
 </div>
 
 ## Evaluation
