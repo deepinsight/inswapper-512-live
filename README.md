@@ -1,5 +1,7 @@
 # inswapper-512-live
 
+*(2025.02.13 Update: Our macOS app is currently stuck in Apple's notarization process. We will release it as soon as the notarization is complete.)*
+
 *The initial test version is scheduled for release around **February 11th**. We are currently optimizing the Mac APP UI and standardizing the model metrics testing.*
 
 
