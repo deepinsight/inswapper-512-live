@@ -6,6 +6,10 @@ This project contains information about the inswapper-512-live model and the app
   <img src="https://github.com/nttstar/insightface-resources/blob/master/images/inswapper_512_live_preview1.gif?raw=true" width="1024"/>
 </div>
 
+## Update Logs
+
+**2025.06.21** : Release v0.1.2. No major updates, v0.1.1 may no longer be valid.
+
 ## How To Use
 
 System requirements: Apple Silicon Macs(M series) and macOS >= 13.5.
